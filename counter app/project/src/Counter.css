@@ -1,0 +1,29 @@
+.increment {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.increaseAmount {
+    font-size: 20px;
+    color: #fff;
+    margin-right: 10px;
+}
+.input {
+    width: 100px;
+    padding: 5px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
